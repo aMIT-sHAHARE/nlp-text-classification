@@ -40,6 +40,9 @@ The confusion matrix shows how the model performs across the four categories.
 
 The main diagonal represents correctly classified documents, while the off-diagonal values represent classification errors.
 
+<img width="513" height="437" alt="image" src="https://github.com/user-attachments/assets/137df9ea-71ba-4ecd-9e2f-3444d1beb4bb" />
+
+
 ## Dataset
 
 This project uses the **20 Newsgroups** dataset available through Scikit-learn.
